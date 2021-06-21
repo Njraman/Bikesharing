@@ -8,7 +8,8 @@ The purpose of this project is to analyze New York City's citibike bikesharing d
 
 ## __Analysis and Results:__
 
-The New York City citibike data from the month of August 2019 has been used to perform the analysis. Tableau has been used to visualize the analysis.
+The New York City citibike data from the month of August 2019 has been used to perform the analysis. Tableau has been used to visualize the analysis.The link to the Tableau Public dashboard is given below:
+[Bikesharing_Challenge](https://public.tableau.com/app/profile/neeraja.jayaraman/viz/Bikesharing_Challenge_16238297640800/NYCCitibikeStory)
 
 The following visualizations have been created.
 
